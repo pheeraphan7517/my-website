@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="th">
+<head><meta charset="UTF-8"/><title>ศูนย์คอมพิวเตอร์และเทคโนโลยี</title></head>
+<body>
+  <h1>ศูนย์คอมพิวเตอร์และเทคโนโลยี</h1>
+  <nav>
+    <a href="page1.html">หัวข้อที่ 1</a>
+    <a href="page2.html">หัวข้อที่ 2</a>
+    <a href="page3.html">หัวข้อที่ 3</a>
+    <a href="page4.html">หัวข้อที่ 4</a>
+  </nav>
+</body>
+</html>
